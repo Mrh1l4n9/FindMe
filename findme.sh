@@ -31,6 +31,7 @@ echo -e $red""
 read -p "Input IP: " anjg;
 echo ""  
 echo -e $yellow"Sedang Melacak :)"
+echo ""
 if [ $anjg ]
 then
 curl "https://tools.keycdn.com/geo.json?host=$anjg"
