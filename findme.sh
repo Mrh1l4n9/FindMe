@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# BIN Checker
+# FindMe in your dick XD
 # Coded By 4WSec
 # contact: 4wsec@cyberservices.com
 # Anon Cyber Team
